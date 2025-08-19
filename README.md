@@ -1,6 +1,9 @@
 # FKN_for_LRE
 This is a official implementation for articla 'Koopman Theory Assisted Transfer Learning for Anomaly Detection of Liquid Rocket Engines in Frequency Domain'.
 
+# LRSIMU Dataset
+The simulation time seires classfication dataset we established can be found in [LRSIMU](https://drive.google.com/drive/folders/1ncBJxMuA2ovmPEyZ107btcix_vWU3CgW?usp=drive_link)
+
 # Requirements
 - Tensorflow
 - Numpy

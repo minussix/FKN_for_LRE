@@ -124,3 +124,30 @@ Data of UCR Archives 2018 can be found in [UCR Archives 2018](https://www.cs.ucr
 | Worms                            | 0.7999      | 0.8052     | 0.7588     | 1159.5949   |
 | WormsTwoClass                    | 0.8638      | 0.8442     | 0.8258     | 1170.6252   |
 | Yoga                             | 0.8898      | 0.8893     | 0.8877     | 4025.3091   |
+
+## LRSIMU Dataset Fault Description
+
+This section provides a detailed description of the fault types included in the **LRSIMU**, along with the number of **severity grades** defined for each fault during simulation.
+
+### Noise Setting
+
+- **Signal-to-Noise Ratio (SNR):** approximately **15 dB**
+
+### Fault Types and Severity Grading
+
+| Fault Type | Number of Severity Grades |
+|-----------|---------------------------|
+| Leakage of oxidizer pipeline in front of the main combustion chamber | 9 |
+| Fuel precombustion chamber to gas turbine pipeline leakage | 10 |
+| Leakage of oxidizer precombustion chamber to gas turbine pipeline | 1 |
+| Pre-combustion chamber oxidizer supply main pipeline leakage | 10 |
+| Oxidizer main valve stuck | 5 |
+| Rotor of the high-pressure oxidizer pump stuck | 8 |
+| Rotor of the low-pressure oxidizer pump stuck | 2 |
+| Fuel precombustion chamber oxidizer supply pipeline leakage | 10 |
+| Leakage of oxidizer supply pipeline in oxidizer precombustion chamber | 10 |
+| Leakage of oxidizer low-pressure turbine inlet liquid pipeline | 10 |
+| Leakage of liquid pipeline at the outlet of high-pressure oxidizer pump | 3 |
+| Leakage in the liquid pipeline before the secondary high-pressure oxidizer pump | 5 |
+| Leakage of pressurized oxidizer liquid pipeline in storage tank | 1 |
+| Leakage in the inlet gas pipeline of the combustion agent high-pressure turbine | 7 |
